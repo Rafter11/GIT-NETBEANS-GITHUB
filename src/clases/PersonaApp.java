@@ -1,5 +1,5 @@
 /*
- * Clase Main
+ * Clase Main de Persona
  */
 package clases;
 
