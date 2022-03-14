@@ -1,5 +1,5 @@
 /*
- * Clase Main de Persona
+ * Clase Main de PersonaApp
  */
 package clases;
 
